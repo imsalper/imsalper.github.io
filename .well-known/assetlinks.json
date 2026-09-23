@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.imsaapp.intus",
+      "sha256_cert_fingerprints": [
+        "F6:54:56:80:C6:E5:39:BE:68:EA:7D:D1:14:D3:CD:E6:77:BB:0D:16:C9:6D:2A:90:CE:A8:42:CA:EC:71:1E:D0",
+        "FA:5F:BA:6A:6B:D1:6F:5C:73:10:7D:B8:BD:C6:B5:24:3D:1D:24:F8:E8:E4:2F:17:31:0A:45:F8:BF:7A:77:C3"
+      ]
+    }
+  }
+]
