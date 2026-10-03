@@ -1,15 +1,1 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.imsaapp.intus",
-      "sha256_cert_fingerprints": [
-        "F6:54:56:80:C6:E5:39:BE:68:EA:7D:D1:14:D3:CD:E6:77:BB:0D:16:C9:6D:2A:90:CE:A8:42:CA:EC:71:1E:D0",
-        "FA:5F:BA:6A:6B:D1:6F:5C:73:10:7D:B8:BD:C6:B5:24:3D:1D:24:F8:E8:E4:2F:17:31:0A:45:F8:BF:7A:77:C3"
-      ]
-    }
-  }
-]
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.imsaapp.intus", "sha256_cert_fingerprints": ["F6:54:56:80:C6:E5:39:BE:68:EA:7D:D1:14:D3:CD:E6:77:BB:0D:16:C9:6D:2A:90:CE:A8:42:CA:EC:71:1E:D0", "FA:5F:BA:6A:6B:D1:6F:5C:73:10:7D:B8:BD:C6:B5:24:3D:1D:24:F8:E8:E4:2F:17:31:0A:45:F8:BF:7A:77:C3"]}}, {"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.imsalper.sesliveresiye", "sha256_cert_fingerprints": ["21:6C:CA:C6:5B:90:12:77:70:F2:ED:4E:08:68:87:92:FF:FA:BA:FB:1E:C2:C3:8A:50:B2:6A:92:F1:DE:E9:18", "80:B6:63:1A:02:34:5A:30:0A:99:B0:40:F9:29:B8:9E:2C:06:07:12:44:BD:D5:D7:A9:9C:27:51:12:99:E0:AF"]}}]
